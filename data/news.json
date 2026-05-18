@@ -1,7 +1,12 @@
 [
-    {
-        "headlines" : "News Bot Welcomed",
-        "summary" : "Welcome to intrigating News Bot",
-        "category" : "FCA-66"
-    }
+  {
+    "headline": "News Bot Welcomed",
+    "summary": "Welcome to News Bot",
+    "category": "FCA-66"
+  },
+  {
+    "headline": "City Harbor Expanded",
+    "summary": "Officials approve expansion plans.",
+    "category": "CIV-22"
+  }
 ]
